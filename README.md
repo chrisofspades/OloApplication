@@ -1,8 +1,8 @@
 # OloApplication
 A small project for my application to Olo. Code test description:
 
-Finding Popular Build-Your-Own Pizzas 
+>Finding Popular Build-Your-Own Pizzas 
 
-A pizza chain wants to know which topping combinations are most popular for Build Your Own pizzas.
+>A pizza chain wants to know which topping combinations are most popular for Build Your Own pizzas.
 
-Given the sample of orders at http://files.olo.com/pizzas.json, write an application (in C#, F# or JavaScript) to output the top 20 most frequently ordered pizza configurations, listing the toppings for each along with the number of times that pizza configuration has been ordered.
+>Given the sample of orders at http://files.olo.com/pizzas.json, write an application (in C#, F# or JavaScript) to output the top 20 most frequently ordered pizza configurations, listing the toppings for each along with the number of times that pizza configuration has been ordered.
